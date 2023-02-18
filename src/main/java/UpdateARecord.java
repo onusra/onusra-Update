@@ -33,7 +33,9 @@ public class UpdateARecord {
      *  |5      |'Adam'                |'Jones'                 |
      */
 
+    public static void main(String [] args){
 
+    }
     public void problem1(){
         /**
          * Problem 1: Update Alexa's last name to be 'Rush' in the site_user table.
